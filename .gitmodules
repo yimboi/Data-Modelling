@@ -1,0 +1,3 @@
+[submodule "gas-malaysia-private"]
+	path = gas-malaysia-private
+	url = https://github.com/yimboi/gas-malaysia-restricted-access.git
